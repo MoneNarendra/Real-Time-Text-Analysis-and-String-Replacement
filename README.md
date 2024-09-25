@@ -1,4 +1,4 @@
-*Text Stats App*
+# Text Stats App
 
 **A React application for real-time text analysis and string
 replacement.**
@@ -20,6 +20,7 @@ replacement.**
 -   **Highlighted replaced words:** Visually highlights the replaced
     words in the textarea.
 
+Link: "https://real-time-text-analysis-and-string.onrender.com/"
 
 
 **Enjoy using the Text Stats App!**
