@@ -1,4 +1,4 @@
-**Text Stats App**
+***Text Stats App***
 
 **A React application for real-time text analysis and string
 replacement.**
